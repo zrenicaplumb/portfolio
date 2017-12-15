@@ -1,0 +1,40 @@
+*{
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        font-size: 100%;
+        vertical-align: baseline;
+        background: transparent;
+}
+.work-div{
+	background-color: #fff;
+}
+
+body{
+	background-color: #252627;
+	margin: 0;
+}
+header{
+	background-color: #111111;
+	margin: 0;
+}
+nav ul{
+	text-align: center;
+}
+ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 20px;
+    border-right: 1px solid #1E1E1E;
+    border-left: 1px solid #101010;
+}
+li.first-nav-li{
+	  border-left: 1px solid #1E1E1E;
+}
+ul li a{
+	text-decoration: none;
+}
+ul li a:hover{
+background-color: #DF4244;
+}
